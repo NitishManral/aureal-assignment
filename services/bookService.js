@@ -1,4 +1,4 @@
-const bookData = require('../data/bookData'); // replace with the path to your data layer file
+const bookData = require('../data/bookData'); 
 
 const getBooks = async () => {
   try {
